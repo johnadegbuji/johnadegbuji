@@ -1,5 +1,5 @@
 @VIRTUALTOX
-Smart contracts, Web3, and blockchain technology
+Smart Contracts, Web3, and Blockchain Technology
 
 OS.Agency: info@openspaces.design
 
